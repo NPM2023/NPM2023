@@ -3,8 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
+### Lenguages
+https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
 
 
 
