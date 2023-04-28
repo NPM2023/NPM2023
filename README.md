@@ -4,7 +4,7 @@
 
 [![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
 
-<img src = "https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
+<img href = "https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 
 
 
